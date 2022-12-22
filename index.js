@@ -7,4 +7,4 @@ function Test() {
     console.log(input)
     
     <a href="/sfx/TP_Sound.mp3" download = "Sound">
-}
+};
